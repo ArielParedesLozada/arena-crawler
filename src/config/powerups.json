@@ -4,24 +4,24 @@
     "duration": 5000,
     "speedMultiplier": 1.8,
     "activateButton": "BTN:1",
-    "color": 0x00ffff
+    "color": "0x00ffff"
   },
   "rapidFire": {
     "type": "rapidFire",
     "duration": 8000,
     "cooldown": 80,
-    "color": 0xffff00
+    "color": "0xffff00"
   },
   "shield": {
     "type": "shield",
     "hitsAbsorbed": 1,
-    "color": 0x0099ff
+    "color": "0x0099ff"
   },
   "bomb": {
     "type": "bomb",
     "radius": 150,
     "damage": 40,
     "activateButton": "BTN:1",
-    "color": 0xff6600
+    "color": "0xff6600"
   }
 }

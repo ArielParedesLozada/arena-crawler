@@ -50,7 +50,7 @@ class GameScene extends Phaser.Scene {
 
     // Indicador de estado del mando (pulsar C para conectar)
     this._statusText = this.add.text(WALL + 8, WALL + 8,
-      'Teclado: WASD + Espacio  |  C = conectar mando', {
+      'Teclado: ARROWS + Espacio  |  C = conectar mando', {
         fontSize: '13px', color: '#556677'
       })
 
