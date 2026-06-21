@@ -1,0 +1,30 @@
+{
+  "runner": {
+    "type": "runner",
+    "hp": 30,
+    "speed": 80,
+    "damage": 10,
+    "color": 0xff3333
+  },
+  "sniper": {
+    "type": "sniper",
+    "hp": 20,
+    "speed": 30,
+    "damage": 15,
+    "shootInterval": 2000,
+    "keepDistance": 200,
+    "color": 0xff8800
+  },
+  "boss": {
+    "type": "boss",
+    "hp": 300,
+    "speed": 60,
+    "damage": 20,
+    "shootInterval": 1500,
+    "phase2Threshold": 150,
+    "phase2SpeedMultiplier": 1.5,
+    "phase2ShootInterval": 1000,
+    "color": 0xaa00ff,
+    "size": 64
+  }
+}
